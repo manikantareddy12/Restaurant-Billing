@@ -1,2 +1,2 @@
-# JavaWithMani
-This repository contains different projects related to Java
+# RestaurantBilling
+This repository contains different projects related to Restaurant Billing
